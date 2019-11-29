@@ -1,3 +1,4 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
 {{- if .IsNamedParams -}}
     {{- if not (hasPrefix (.Get "name") "fa-") -}}
 <span class="glyphicon glyphicon-{{.Get "name"}}" {{with .Get "size"}}style="font-size:{{.}}"{{end}} aria-hidden="true"></span>
