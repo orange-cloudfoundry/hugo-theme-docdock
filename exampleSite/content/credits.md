@@ -36,7 +36,6 @@ description = "contributors and packages used by hugo-theme-docdock"
 * [clipboard.js](https://zenorocha.github.io/clipboard.js) - copy text to clipboard
 * [highlight.js](https://highlightjs.org) - Javascript syntax highlighter
 * [modernizr](https://modernizr.com) - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don't support
-* [reveal-js](http://lab.hakim.se/reveal-js) - The HTML Presentation Framework
 
 ## Tooling
 
